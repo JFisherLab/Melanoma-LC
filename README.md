@@ -20,7 +20,7 @@ The model can also be explored using a local installation of [BMA](https://githu
 
 Publication in preparation.
 
-This repo is archived on Zenodo at[![DOI](https://zenodo.org/badge/493342976.svg)](https://zenodo.org/badge/latestdoi/493342976).
+This repo is archived on Zenodo at [![DOI](https://zenodo.org/badge/493342976.svg)](https://zenodo.org/badge/latestdoi/493342976).
 
 ## License
 
