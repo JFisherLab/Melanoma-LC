@@ -2,7 +2,7 @@
 
 ## Overview
 
-Network model `.json` file for the Langerhans Cell (LC), Melanoma and combined models first described in Howell et al. (in preparation).
+Network model `.json` file for the Langerhans Cell (LC), Melanoma and combined models first described in [Howell, Davies et al., *Science Advances* 2023](https://www.science.org/doi/10.1126/sciadv.add1992).
 
 ![image](./misc/melanoma7.2-LC3.1v3.png)
 
@@ -18,9 +18,12 @@ The model can also be explored using a local installation of [BMA](https://githu
 
 ## Citing
 
-Publication in preparation.
+Please cite this work as:
 
-This repo is archived on Zenodo at [![DOI](https://zenodo.org/badge/493342976.svg)](https://zenodo.org/badge/latestdoi/493342976).
+Howell, R., Davies J., et al. Localized immune surveillance of primary melanoma in the skin deciphered through executable modeling. *Science Advances* **9**, 15 (2023). https://doi.org/10.1126/sciadv.add1992
+
+
+This repository is archived on Zenodo at [![DOI](https://zenodo.org/badge/493342976.svg)](https://zenodo.org/badge/latestdoi/493342976).
 
 ## License
 
